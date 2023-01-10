@@ -1,2 +1,2 @@
 # Patika-Final-Case
-Taslak halidir
+Son Halidir
